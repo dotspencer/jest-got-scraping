@@ -1,0 +1,1 @@
+# jest-got-scraping
