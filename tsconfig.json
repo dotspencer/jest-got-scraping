@@ -12,13 +12,7 @@
     "esModuleInterop": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "strict": false,
-    "noFallthroughCasesInSwitch": true,
-    "noImplicitReturns": false,
-    "noUnusedLocals": true,
-    "noUnusedParameters": false,
-    "pretty": true,
-    "stripInternal": true
+    "strict": false
   },
   "include": ["./src/**/*.tsx", "./src/**/*.ts"],
   "exclude": ["node_modules", "dist", "./test/**/*.spec.ts"]
